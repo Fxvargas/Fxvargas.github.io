@@ -10,11 +10,15 @@ comments: true
 
 This section will cover the binary search tree.
 
-For this enhancement, I created a dashboard based off a sample dataset about employee data. The dashboard displays employee salary which can be filtered by certain departments, countries, and city. The original project did not really have an application built and it was just queries run against a dataset. The original dataset is not accessible to me, so I had to use the sample dataset.
-The dashboard runs on the local server with Streamlit. Streamlit makes it easy to create a dashboard with Python and it provides several customizable options. In my case, I loaded a spreadsheet into the application and created a table showing the dataset and graphs showing the average salary. The data can be filtered by department, business unit, country, and city. When a filter is set, the data updates accordingly and the filters can be hidden.
-The scenario I came up with was getting the salary information of the entire company. I created two small tables with one having the total annual salary and the other showing the average salary. This information updates along with the rest of the data as filters are set. With this project, I was able to create an interactive dashboard and created it in such a way that users can understand the data presented. With data analysis, it is important to provide users with meaningful data since these users will likely be using this to make business decisions. The data must be easily accessible, easy to understand, and dynamic based on user input.
-Screenshots of the dashboard running on the browser are below:
+The application I chose to enhance for the Data Structures & Algorithms category was a Binary Search Tree (BST) project from CS 230. For this project, we had to finish developing the application to create and utilize a valid BST and note the times (in clock ticks) of each process, like loading the bids, removing a bid, and displaying all the bids. The original application was able to perform these tasks successfully, but it lacked the ability to display a particular bid, add a bid, and modify bids based on input (it had a hard coded “BID ID” that was used just to make sure the search and delete functions worked).
+Enhancements that have been implemented are being able to add a new bid, delete a bid, and display a bid based on the “BID ID”. Another function that was implemented was the ability for the application to check if the BST is empty or the root is “null” before executing any of the functions requiring traversing the tree. It will simply display a message rather than calling a function and returning nothing.
+Some additional items that were done were cleaning up some unneeded lines of code that were used for observation purposes. One example is the lines of clock ticks that would show the amount of “clock ticks” it has taken the application to run some of the functions. Some others were removing unused functions and simplifying some of the lines.
 
-![Dashboard1](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/b5533e72-8da4-4da7-bd5a-cd4e16af9e67)
+Screenshots below showing some of the new functions implemented:
 
-![Dashboard2](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/244d9146-d758-4a2e-b4bb-b17f70110611)
+
+![AddNewBidFunction](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/79529bec-6f48-48a5-b82b-741afb7b5a53)
+
+![IsBSTEmptyFunction](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/b1e98eb8-906c-42d1-9de3-1fdf82b6d2cf)
+
+![CheckIntegerFunction](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/ef0ebaf9-edb8-422a-b5ef-25379d0a7438)
