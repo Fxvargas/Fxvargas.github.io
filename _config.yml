@@ -282,6 +282,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - _posts/2020-02-26-flake-it-till-you-make-it.md
+  - _posts/2020-02-28-test-markdown.md
 
 plugins:
   - jekyll-paginate
