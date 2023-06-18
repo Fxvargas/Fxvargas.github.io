@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Inventory Application
-subtitle: Showcase for Inventory Application
+subtitle: Showcase for inventory application
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: 
 comments: true
 ---
 
