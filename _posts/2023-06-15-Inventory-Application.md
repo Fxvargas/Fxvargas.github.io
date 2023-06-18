@@ -17,4 +17,6 @@ Within the code, there have been improvements to make the application easier to 
 With these enhancements, I have been able to improve on the basic functions of the application without compromising any of those existing functions. There have also been some improvements to the look and navigation of the application. I was able to solve the problem of not being able to edit an item name in the list and now these can be edited, along with the quantity. I was also able to maintain a simple look of the application and implement meaningful navigational buttons and icons. This demonstrates that I am able to create an application that accounts for end user experience, since a clean and simple layout and easy navigation is very important for a mobile application.
 Below are screenshots of screens from the original build and the enhanced build. The original is on the left and enhanced on the right.
 
+![MainActivity](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/66de5abb-47fb-442c-b41b-0f60614abb39)
+
 ![MainScreen](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/e72c04cb-0f88-4cbd-b8b2-971e5a77fcad)
