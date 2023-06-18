@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Felix E. Vargas
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Experience and skills
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Azure AD, Microsoft 365, Exchange 2016/2019/Online, AD DS, and PowerShell.
+Python, Java, JavaScript, C, C++, Scala, R and HTML.
+Android mobile app development using Android Studio.
+IntelliJ IDEA, Sublime Text, Eclipse IDE, Jupyter Notebook and PSQL.
 
-What else do you need?
+Education
 
-### My story
+Middlesex Community College, graduated in 2015 with an associate in engineering and science.
+Southern New Hampshire University, projected to finish in mid 2023 with a bachelor’s in engineering science.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Miscellaneous
+	
+I work well both in a team and independently.
+Have worked remote for the last five years.
+Currently seeking to expand my experience in software development, languages, and tools outside of university.
+Always open to learning new things in the software development field.
