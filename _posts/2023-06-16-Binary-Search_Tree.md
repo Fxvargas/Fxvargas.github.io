@@ -4,7 +4,7 @@ title: Binary Search Tree
 subtitle: Showcase for BST application
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: 
 comments: true
 ---
 
