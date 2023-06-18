@@ -18,3 +18,15 @@ With these enhancements, I have been able to improve on the basic functions of t
 Below are screenshots of screens from the original build and the enhanced build. The original is on the left and enhanced on the right.
 
 ![MainActivity](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/66de5abb-47fb-442c-b41b-0f60614abb39)![MainScreen](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/e72c04cb-0f88-4cbd-b8b2-971e5a77fcad)
+
+![RegisterActivity](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/53275364-ed19-4816-b441-15220ebda1cf)![RegisterActivity](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/086752b9-0661-4df0-9925-f6a37dc573ba)
+
+
+![MainScreen](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/adb97f04-8d32-416f-8cfa-880b16f21f9e)![MainActivity](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/591498bd-b4c0-41b7-aa12-031ecc682b20)
+
+
+![MainScreen_Items](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/ddf56482-ee51-4534-a0f1-aaa8cc1ad83b)![MainActivity_Edit](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/dcf1697f-d326-4649-ac02-154d2206a659)
+
+The following screen is only available in the enhanced app:
+
+![AddActivity](https://github.com/Fxvargas/Fxvargas.github.io/assets/61395074/517039dd-95fe-4468-b6f0-f588c4f39aa7)
