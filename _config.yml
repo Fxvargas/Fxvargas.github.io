@@ -21,9 +21,10 @@ author: Felix E. Vargas
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  My Github Repository: "https://github.com/Fxvargas"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
   Site Template Repository: "https://github.com/daattali/beautiful-jekyll"
 
 ################
